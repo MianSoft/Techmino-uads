@@ -18,17 +18,17 @@
             "iconURL": "https://github.com/26F-Studio/Techmino/blob/main/.github/build/iOS/release/icon/icon_1024x1024.png",
             "tintColor": "#2B2B2B",
             "screenshotURLs": [
-                "https://github.com/MianSoft/Techmino-uads/blob/main/screenshot_1.jpg",
-                "https://github.com/MianSoft/Techmino-uads/blob/main/screenshot_2.jpg",
-                "https://github.com/MianSoft/Techmino-uads/blob/main/screenshot_3.jpg",
-                "https://github.com/MianSoft/Techmino-uads/blob/main/screenshot_4.jpg"
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_1.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_2.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_3.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_4.jpg"
             ],
             "versions": [
                 {
                   "version": "0.17.14",
                   "date": "2023-09-19T06:19:40Z",
                   "localizedDescription": "0.17.14: 暂停 Break\n新增:\n 新语音包: flore\n改动:\n 挖掘效率模式改为和tsd模式一样的低重力+不锁定+无限hold\n 登录界面UI更好懂一点\n Arithmetic小程序新增草稿纸\n修复:\n 对战和stack模式中hold致死但没有完全死的时候下一块悬空导致的幽灵行\n 忘了支持消6以上的语音",
-                  "downloadURL": "https://github.com/MianSoft/Techmino-uads/blob/main/ipa/Techmino_iOS_0.17.14.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/ipa/Techmino_iOS_0.17.14.ipa",
                   "size": 66875568
                 }
               ]
