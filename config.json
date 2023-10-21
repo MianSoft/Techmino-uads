@@ -14,23 +14,23 @@
             "bundleIdentifier": "org.26f-studio.techmino",
             "developerName": "26F-Studio",
             "subtitle": "颠覆你对方块游戏的认知",
-            "localizedDescription": "欢迎来到Techmino, 一款来自 26F Studio 的现代方块堆叠游戏! 在这里, 您可以在多达百种游戏模式与丰富多样的难度选项收获有趣的方块体验, 在现代简约的风格中找回儿时游戏的味道。游戏模式难度不一, 适合所有水平的玩家。在多人模式中, 您可以向好友和全球玩家发起挑战。游戏中还隐藏着许多彩蛋, 等待您的发掘。\n\n独自游玩\n 在单人模式中提升方块水平\n 随时随地与AI展开对战\n 修改游戏参数, 提升您的游戏体验\n\n与人同乐\n 开房, 与好友展开对战\n 修改, 房间的各种设置\n 聊天, 即使是在对局中\n\n最后, Techmino好玩!",
+            "localizedDescription": "欢迎来到Techmino, 一款来自 26F Studio 的现代方块堆叠游戏! 在这里, 您可以在多达百种游戏模式与丰富多样的难度选项收获有趣的方块体验, 在现代简约的风格中找回儿时游戏的味道。游戏模式难度不一, 适合所有水平的玩家。在多人模式中, 您可以向好友和全球玩家发起挑战。游戏中还隐藏着许多彩蛋, 等待您的发掘。\n\n独自游玩\n* 在单人模式中提升方块水平\n* 随时随地与AI展开对战\n* 修改游戏参数, 提升您的游戏体验\n\n与人同乐\n* 开房, 与好友展开对战\n* 修改, 房间的各种设置\n* 聊天, 即使是在对局中\n\n最后, Techmino好玩!",
             "iconURL": "https://raw.githubusercontent.com/26F-Studio/Techmino/main/.github/build/iOS/release/icon/icon_1024x1024.png",
             "tintColor": "#2B2B2B",
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_1.jpg",
-                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_2.jpg",
-                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_3.jpg",
-                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/screenshot_4.jpg"
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/cn_1.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/cn_2.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/cn_3.jpg",
+                "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/cn_4.jpg"
             ],
             "versions": [
                 {
                   "version": "0.17.14",
                   "date": "2023-09-19T06:19:40Z",
                   "localizedDescription": "0.17.14: 暂停 Break\n新增:\n 新语音包: flore\n改动:\n 挖掘效率模式改为和tsd模式一样的低重力+不锁定+无限hold\n 登录界面UI更好懂一点\n Arithmetic小程序新增草稿纸\n修复:\n 对战和stack模式中hold致死但没有完全死的时候下一块悬空导致的幽灵行\n 忘了支持消6以上的语音",
-                  "downloadURL": "https://raw.githubusercontent.com/MianSoft/Techmino-uads/main/ipa/Techmino_iOS_0.17.14.ipa",
+                  "downloadURL": "https://github.com/26F-Studio/Techmino/releases/download/v0.17.14/Techmino_iOS.ipa",
                   "size": 66875568,
-                  "minOSVersion": "9.0"
+                  "minOSVersion": "12.0"
                 }
               ]
         }
